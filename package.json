@@ -1,0 +1,19 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecthon/ecthon.github.io.git"
+  },
+  "author": "@ecthon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecthon/ecthon.github.io/issues"
+  },
+  "homepage": "https://github.com/ecthon/ecthon.github.io#readme"
+}
